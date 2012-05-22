@@ -1,5 +1,7 @@
 This is a CPU created using the HADES circuit
-simulation framework.
+simulation framework. The document offers
+diagrams of the circuits and pertinent
+discussion of design decisions and verification.
 
 Each component in the CPU was formed using
 fundamental gates. Building upon each component
